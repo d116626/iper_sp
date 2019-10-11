@@ -6,6 +6,9 @@
 - Saude   - Pedir contato do Jefte
 - IPer-SC - Falar com Leonardo da FACISC
 - Procurar dados de ICMS mensal - Ministerio da Fazenda de SP
+- [Portal da Transparencia SP](http://www.transparencia.sp.gov.br/)
+
+- Dados [**Energeticos**](http://dadosenergeticos.energia.sp.gov.br/portalcev2/index.html) -  Telefone: +55 11 3133-3000
 
 | Variavel | Fonte 1                          | Fonte 2                                    |
 |----------|----------------------------------|--------------------------------------------|
