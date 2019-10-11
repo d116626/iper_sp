@@ -10,7 +10,7 @@
 | Variavel | Fonte 1                          | Fonte 2                                    |
 |----------|----------------------------------|--------------------------------------------|
 | Emprego  | [CAGED](http://pdet.mte.gov.br/) | [CAGED](ftp.mtps.gov.br/pdet/caged/)       |
-|          |                                  |                                            |
+| Frota de Veiculos         |  [DENATRAN](https://infraestrutura.gov.br/component/content/article/115-portal-denatran/8552-estat%C3%ADsticas-frota-de-ve%C3%ADculos-denatran.html)                                |                                            |
 |          |                                  |                                            |
 |          |                                  |                                            |
 |          |                                  |                                            |
