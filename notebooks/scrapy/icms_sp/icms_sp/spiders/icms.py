@@ -98,4 +98,4 @@ class IcmsSpider(scrapy.Spider):
         df = pd.DataFrame.from_dict(final_table)
         #create a column with date_time of capture
         df['data_de_captura'] = pd.Timestamp.now()
-        df.to_csv('icms_2.csv',mode='a', header=False ,index=False, encoding='utf-8')
+        df.to_csv('icms.csv',mode='a', header=False ,index=False, encoding='utf-8')
