@@ -24,7 +24,7 @@
 |     ICMS/IPVA     |          [Fazenda-SP](https://www.fazenda.sp.gov.br/RepasseConsulta/Consulta/repasse.aspx)                        |                                            |
 |     Dados Bancarios     |        [ESTBAN](https://www.bcb.gov.br/estatisticas/estatisticabancariamunicipios)                          |                                            |
 |     Bolsa Familia     |            [Quantidade de Famílias Beneficiárias e Valores Pagos - MI Social](http://dados.gov.br/dataset/bolsa-familia-misocial)                      |                  [Benefícios Básicos e Variáveis - MI Social](http://dados.gov.br/dataset/beneficios-bolsa-familia-mi-social)                          |
-|   BPC por município pagador       |       [MI Social](http://dados.gov.br/dataset/bpc-por-municipio-pagador)                           |                                            |
+|   BPC      |       [Beneficiários BPC por município pagador - MI Social](http://dados.gov.br/dataset/bpc-por-municipio-pagador)                           |                                            |
 |          |                                  |                                            |
 |          |                                  |                                            |
 
