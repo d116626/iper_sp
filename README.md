@@ -15,6 +15,6 @@
 | Emprego  | [CAGED](http://pdet.mte.gov.br/) | [CAGED](ftp.mtps.gov.br/pdet/caged/)       |
 | Frota de Veiculos         |  [DENATRAN](https://infraestrutura.gov.br/component/content/article/115-portal-denatran/8552-estat%C3%ADsticas-frota-de-ve%C3%ADculos-denatran.html)                                |                                            |
 |     Importaçoes/Exportações     |           [MDIC](http://www.mdic.gov.br/index.php/comercio-exterior/estatisticas-de-comercio-exterior/base-de-dados-do-comercio-exterior-brasileiro-arquivos-para-download)                       |                                            |
-|          |                                  |                                            |
+|     ICMS     |          [Fazenda-SP](https://fazenda.sp.gov.br/RepasseConsulta/Consulta/repasse.aspx)                        |                                            |
 |          |                                  |                                            |
 
