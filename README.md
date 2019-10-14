@@ -12,7 +12,7 @@
 - [Fazenda SP](https://portal.fazenda.sp.gov.br/acessoinformacao)
 - Dados [**Energeticos**](http://dadosenergeticos.energia.sp.gov.br/portalcev2/index.html) -  Telefone: +55 11 3133-3000
 - [PIB Mensal](http://www.seade.gov.br/produtos/pib-mensal/)
-
+- [PNAD](https://br.advfn.com/indicadores/pnad)
 
 
 
