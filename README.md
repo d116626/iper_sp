@@ -15,7 +15,7 @@
 - [PNAD](https://br.advfn.com/indicadores/pnad)
 - [BPC](https://aplicacoes.mds.gov.br/sagi/vis/data/data-table.php#)
 - [BOLSA FAMILIA](http://www.transparencia.gov.br/swagger-ui.html#!/Bolsa32Fam237lia/bolsaFamiliaPorMunicipioUsingGET) - [Bolsa Família - MI Social](http://dados.gov.br/dataset/bolsa-familia-misocial) - [Bolsa Família - Pagamentos](http://dados.gov.br/dataset/bolsa-familia-pagamentos) 
-- [http://aplicacoes.mds.gov.br/sagi-paineis/analise_dados_abertos/](http://aplicacoes.mds.gov.br/sagi-paineis/analise_dados_abertos/)
+- [Painel Dados Abertos da Matriz de Informações Sociais](http://aplicacoes.mds.gov.br/sagi-paineis/analise_dados_abertos/)
 
 
 | Variavel | Fonte 1                          | Fonte 2                                    |
