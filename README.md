@@ -2,13 +2,20 @@
 
 ## Fontes de dados
 
+- [**Governo Aberto**](http://www.governoaberto.sp.gov.br/)
+- [**Portal da Transparencia SP**](http://www.transparencia.sp.gov.br/)
 - Fonte a explorar [Tesouro Transparente](http://www.tesourotransparente.gov.br/)
 - Saude   - Pedir contato do Jefte
 - IPer-SC - Falar com Leonardo da FACISC
-- Procurar dados de ICMS mensal - Ministerio da Fazenda de SP
-- [Portal da Transparencia SP](http://www.transparencia.sp.gov.br/)
-
+- Dados municipais do [IPEA](http://ipeadata.gov.br/Default.aspx) - [API](http://ipeadata.gov.br/api/)
+- Dados de Violencia [SSP](http://www.ssp.sp.gov.br/Estatistica/Pesquisa.aspx)
+- [Fazenda SP](https://portal.fazenda.sp.gov.br/acessoinformacao)
 - Dados [**Energeticos**](http://dadosenergeticos.energia.sp.gov.br/portalcev2/index.html) -  Telefone: +55 11 3133-3000
+
+
+
+
+
 
 | Variavel | Fonte 1                          | Fonte 2                                    |
 |----------|----------------------------------|--------------------------------------------|
