@@ -35,7 +35,7 @@
 
 
 ----
-### ICMS
+### ICMS/IPVA
 
 
 - Colunas capturadas 'Meses', 'ICMS (\*\*)', 'IPVA (\*\*\*)', 'Fund.Exp-IPI (\*\*)', 'Comp. (\*)', 'Total'
@@ -61,5 +61,57 @@
 Saldos Estban por município
 
 O arquivo **Saldos Estban por município** é gerado mensalmente com a informação da Estatística Bancária Mensal (Código documento 4500), contemplando a posição mensal dos saldos das principais rubricas de balancetes dos bancos comerciais e dos bancos múltiplos com carteira comercial, por município. Ele é disponibilizado 60 (sessenta) dias após a data-base do documento, com exceção da data-base de dezembro, que é disponibilizado em 90 (noventa) dias após o seu encerramento, conforme estabelece o Comunicado 20.467, de 04 de janeiro de 2011. Sua atualização é mensal, e abrange os últimos 6 (seis) meses publicados.
+
+----
+## Bolsa Familia
+
+### Quantidade de Famílias Beneficiárias e Valores Pagos - MI Social
+
+Nesse conjunto de dados temos as seguintes variáveis:
+ibge: código ibge do município
+anomes: ano e mês de referência
+qtd_familias_beneficiarias_bolsa_familia: quantidade de famílias beneficiárias do programa bolsa família
+valor_repassado_bolsa_familia: valor repassado pelo programa bolsa família
+Esse conjunto de dados informa a quantidade de famílias beneficiárias e o valor repassado através da folha de pagamento do Bolsa Família, assim como o município e ano/mês de referência.
+
+O Bolsa Família é um programa de transferência direta de renda, direcionado às famílias em situação de pobreza e de extrema pobreza em todo o País, de modo que consigam superar a situação de vulnerabilidade e pobreza. Tem como principal objetivo combater a fome, a pobreza e promover a segurança alimentar e nutricional, retirando as famílias da vulnerabilidade socieconômica por meio da transferência de renda; Além disso, através das condicionalidades, reforçar o acesso aos direitos básicos e aos serviços de saúde, educação, segurança alimentar a assistência social.
+
+A Matriz de Informações Sociais é uma combinação de soluções tecnológicas que permite a visualização de informações gerenciais e indicadores sociais em diferentes formatos (tabelas, gráficos ou mapas). É possível realizar consultas em um determinado tempo, com referência mensal ou anual, em um espaço pré-selecionado (municípios, estados, regiões, Brasil, ou áreas especiais).
+
+O VIS DATA é um sistema de gerenciamento e visualização dos diversos programas, ações e serviços do Ministério da Cidadania - MC. Por meio do VISDATA é possível acessar dados de um ou mais indicadores em um determinado período e local selecionados. Há diversas opções de recorte disponíveis: mês/ano, municípios, estados, regiões, Brasil ou áreas especiais.
+
+Link para a VIS DATA: https://aplicacoes.mds.gov.br/sagi/vis/data/index.php?view=Bolsa%20Fam%C3%ADlia
+
+Painel de Análise dos Dados: http://aplicacoes.mds.gov.br/sagi-paineis/analise_dados_abertos/
+
+
+### Benefícios Básicos e Variáveis - MI Social
+Nesse conjunto de dados temos as seguintes variáveis:
+ibge: código ibge do município
+anomes: ano e mês de referência
+qtd_ben_bas: Quantidade de benefícios básicos
+qtd_ben_var: Quantidade de benefícios variáveis
+qtd_ben_bvj: Quantidade de benefícios jovem
+qtd_ben_bvn: Quantidade de benefícios nutriz
+qtd_ben_bvg: Quantidade de benefícios gestantes
+qtd_ben_bsp: Quantidade de benefícios superação extrema pobreza
+Esse conjunto de dados informa a quantidade de benefícios básicos e variáveis, assim como o município e ano/mês de referência.
+
+O Bolsa Família é um programa de transferência direta de renda, direcionado às famílias em situação de pobreza e de extrema pobreza em todo o País, de modo que consigam superar essa situação de vulnerabilidade. Tem como principal objetivo combater a fome, a pobreza e promover a segurança alimentar e nutricional, retirando as famílias da vulnerabilidade socieconômica por meio da transferência de renda; Além disso, através das condicionalidades, reforçar o acesso aos direitos básicos e aos serviços de saúde, educação, segurança alimentar a assistência social.
+
+As definições e valores estabelecidos para cada benefício e demais informações estão disponíveis nos links abaixo:
+
+http://mds.gov.br/acesso-a-informacao/perguntas-frequentes/bolsa-familia/beneficios/beneficiario
+
+https://www.facebook.com/296135843735359/posts/2604859936196260/
+
+A Matriz de Informações Sociais é uma combinação de soluções tecnológicas que permite a visualização de informações gerenciais e indicadores sociais em diferentes formatos (tabelas, gráficos ou mapas). É possível realizar consultas em um determinado tempo, com referência mensal ou anual, em um espaço pré-selecionado (municípios, estados, regiões, Brasil, ou áreas especiais).
+
+O VIS DATA é um sistema de gerenciamento e visualização dos diversos programas, ações e serviços do Ministério da Cidadania - MC. Por meio do VISDATA é possível acessar dados de um ou mais indicadores em um determinado período e local selecionados. Há diversas opções de recorte disponíveis: mês/ano, municípios, estados, regiões, Brasil ou áreas especiais.
+
+Link para a VIS DATA: http://aplicacoes.mds.gov.br/sagi/portal/?grupo=88
+
+Painel de Análise dos Dados: http://aplicacoes.mds.gov.br/sagi-paineis/analise_dados_abertos/
+
 
 ----
