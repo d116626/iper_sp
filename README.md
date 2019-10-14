@@ -1,7 +1,7 @@
 # IPer-SP
 
 ## Fontes de dados
-
+- [Dados Governo](http://dados.gov.br/dataset?_organization_limit=0)
 - [**Governo Aberto**](http://www.governoaberto.sp.gov.br/)
 - [**Portal da Transparencia SP**](http://www.transparencia.sp.gov.br/)
 - Fonte a explorar [Tesouro Transparente](http://www.tesourotransparente.gov.br/)
@@ -13,7 +13,7 @@
 - Dados [**Energeticos**](http://dadosenergeticos.energia.sp.gov.br/portalcev2/index.html) -  Telefone: +55 11 3133-3000
 - [PIB Mensal](http://www.seade.gov.br/produtos/pib-mensal/)
 - [PNAD](https://br.advfn.com/indicadores/pnad)
-- [BPC](https://aplicacoes.mds.gov.br/sagi/vis/data/data-table.php#)
+- [BPC](https://aplicacoes.mds.gov.br/sagi/vis/data/data-table.php#) - [BPC por município pagador](http://dados.gov.br/dataset/bpc-por-municipio-pagador)
 - [BOLSA FAMILIA](http://www.transparencia.gov.br/swagger-ui.html#!/Bolsa32Fam237lia/bolsaFamiliaPorMunicipioUsingGET) - [Bolsa Família - MI Social](http://dados.gov.br/dataset/bolsa-familia-misocial) - [Bolsa Família - Pagamentos](http://dados.gov.br/dataset/bolsa-familia-pagamentos) 
 - [Painel Dados Abertos da Matriz de Informações Sociais](http://aplicacoes.mds.gov.br/sagi-paineis/analise_dados_abertos/)
 
@@ -25,8 +25,8 @@
 |     Importaçoes/Exportações     |           [MDIC](http://www.mdic.gov.br/index.php/comercio-exterior/estatisticas-de-comercio-exterior/base-de-dados-do-comercio-exterior-brasileiro-arquivos-para-download)                       |                                            |
 |     ICMS/IPVA     |          [Fazenda-SP](https://www.fazenda.sp.gov.br/RepasseConsulta/Consulta/repasse.aspx)                        |                                            |
 |     Dados Bancarios     |        [ESTBAN](https://www.bcb.gov.br/estatisticas/estatisticabancariamunicipios)                          |                                            |
-|     Bolsa Familia     |            [MI Social](http://dados.gov.br/dataset/bolsa-familia-misocial)                      |                                            |
-|          |                                  |                                            |
+|     Bolsa Familia     |            [MI Social](http://dados.gov.br/dataset/bolsa-familia-misocial)                      |                  [MI Social](http://dados.gov.br/dataset/beneficios-bolsa-familia-mi-social)                          |
+|   BPC por município pagador       |       [MI Social](http://dados.gov.br/dataset/bpc-por-municipio-pagador)                           |                                            |
 |          |                                  |                                            |
 |          |                                  |                                            |
 
