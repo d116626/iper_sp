@@ -115,3 +115,36 @@ Painel de Análise dos Dados: http://aplicacoes.mds.gov.br/sagi-paineis/analise_
 
 
 ----
+
+## BPC por município pagador - MI Social
+
+Este conjunto de dados se refere a quantidade de beneficiários (Idosos/PCD) e do valor repassado por município pagador.
+
+O Benefício de Prestação Continuada- BPC da Lei Orgânica da Assistência Social- LOAS (BPC) é a garantia de um salário mínimo mensal ao idoso acima de 65 anos ou à pessoa com deficiência de qualquer idade com impedimentos de natureza física, mental, intelectual ou sensorial de longo prazo (aquele que produza efeitos pelo prazo mínimo de 2 (dois) anos), que o impossibilite de participar de forma plena e efetiva na sociedade, em igualdade de condições com as demais pessoas.
+
+Até o fim de 2018, o Departamento de Benefícios Assistenciais (DBA/SNAS) utilizava o Sistema SINTESE (Sistema Integrado de Tratamento Estatístico de Séries Estratégicas) do INSS para geração dos arquivos de município de pagamento. A partir de janeiro de 2019, passou – se a utilizar a Maciça (folha de pagamento da previdência social) para obtenção de dados e valores por municípios de pagamento. Para a finalidade de representar fielmente o valor repassado aos beneficiários pelo Estado brasileiro, sem qualquer desconto que diga respeito a atividades individuais do próprio (como consignações em pagamento) utiliza - se o valor bruto do benefício na folha de pagamento.
+
+A Matriz de Informação Social ( MI Social ) é uma combinação de soluções tecnológicas que permite a visualização de informações gerenciais e indicadores sociais em diferentes formatos (tabelas, gráficos ou mapas). É possível realizar consultas em um determinado tempo, com referência mensal ou anual, em um espaço pré-selecionado (municípios, estados, regiões, Brasil, ou áreas especiais).
+
+O VISDATA é um sistema de gerenciamento e visualização dos diversos programas, ações e serviços do Ministério da Cidadania - MC. Por meio do VISDATA é possível acessar dados de um ou mais indicadores em um determinado período e local selecionados. Há diversas opções de recorte disponíveis: mês/ano, municípios, estados, regiões, Brasil ou áreas especiais.
+
+Link para a VIS DATA: https://aplicacoes.mds.gov.br/sagi/vis/data/home.php
+
+Painel de Análise dos Dados: http://aplicacoes.mds.gov.br/sagi-paineis/analise_dados_abertos/
+
+Nesse conjunto de dados temos as seguintes variáveis:
+ibge: código ibge do município
+anomes: Ano/mês de referência do dado
+bpc_ben: quantidade bpc beneficiário total
+bpc_pcd_ben: quantidade bpc portador deficiência beneficiário
+bpc_idoso_ben: quantidade bpc idoso beneficiário
+bpc_pcd_val: valor bpc portador deficiência
+bpc_idoso_val: valor bpc idoso
+bpc_val: valor bpc total
+
+O valor bpc beneficiário total se refere a soma das variáveis: valor bpc portador deficiência beneficiário e valor bpc idoso beneficiário.
+
+O valor bpc total se refere a soma das variáveis: valor bpc portador deficiência e valor bpc idoso.
+
+
+----
