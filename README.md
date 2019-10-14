@@ -14,6 +14,8 @@
 - [PIB Mensal](http://www.seade.gov.br/produtos/pib-mensal/)
 - [PNAD](https://br.advfn.com/indicadores/pnad)
 - [Painel Dados Abertos da Matriz de Informações Sociais](http://aplicacoes.mds.gov.br/sagi-paineis/analise_dados_abertos/)
+- [SINE aberto](https://sineaberto.economia.gov.br/vagas.html)
+
 
 
 | Variavel | Fonte 1                          | Fonte 2                                    |
