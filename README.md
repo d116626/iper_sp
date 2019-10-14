@@ -23,7 +23,12 @@
 | Frota de Veiculos         |  [DENATRAN](https://infraestrutura.gov.br/component/content/article/115-portal-denatran/8552-estat%C3%ADsticas-frota-de-ve%C3%ADculos-denatran.html)                                |                                            |
 |     Importaçoes/Exportações     |           [MDIC](http://www.mdic.gov.br/index.php/comercio-exterior/estatisticas-de-comercio-exterior/base-de-dados-do-comercio-exterior-brasileiro-arquivos-para-download)                       |                                            |
 |     ICMS     |          [Fazenda-SP](https://www.fazenda.sp.gov.br/RepasseConsulta/Consulta/repasse.aspx)                        |                                            |
+|     Dados Bancarios     |        [ESTBAN](https://www.bcb.gov.br/estatisticas/estatisticabancariamunicipios)                          |                                            |
 |          |                                  |                                            |
+|          |                                  |                                            |
+|          |                                  |                                            |
+|          |                                  |                                            |
+
 
 
 
@@ -49,5 +54,12 @@
 - [Saiba mais sobre o Repasse de Tributos](https://www.fazenda.sp.gov.br/RepasseConsulta/Consulta/r1.asp)
 
 - Observação: As atualizações das contas bancárias para o repasse da cota-parte da arrecadação de IPVA e das receitas decorrentes do recebimento das multas de trânsito de convênio auto-gestão deverão ser informadas diretamente à Federação Brasileira dos Bancos - FEBRABAN, por meio de ofício assinado pelo Prefeito ou Secretário de Finanças ou Fazenda, com os dados discriminados no [Comunicado DA 86/2010](https://www.fazenda.sp.gov.br/RepasseConsulta/Consulta/comunicado.shtm)
+
+----
+
+ESTBAN - Estatística Bancária Mensal por município
+ 
+Saldos Estban por município
+O arquivo Saldos Estban por município é gerado mensalmente com a informação da Estatística Bancária Mensal (Código documento 4500), contemplando a posição mensal dos saldos das principais rubricas de balancetes dos bancos comerciais e dos bancos múltiplos com carteira comercial, por município. Ele é disponibilizado 60 (sessenta) dias após a data-base do documento, com exceção da data-base de dezembro, que é disponibilizado em 90 (noventa) dias após o seu encerramento, conforme estabelece o Comunicado 20.467, de 04 de janeiro de 2011. Sua atualização é mensal, e abrange os últimos 6 (seis) meses publicados.
 
 ----
